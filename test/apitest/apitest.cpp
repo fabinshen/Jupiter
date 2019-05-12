@@ -1,8 +1,9 @@
 #include <stdio.h>
 
+#include "jupiterapi.h"
+
 int main()
 {
-    printf("Hello\n");
+    Hello();
     return 0;
 }
-
