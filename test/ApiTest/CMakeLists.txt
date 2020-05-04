@@ -1,4 +1,4 @@
-add_executable(ApiTest apitest.cpp)
+add_executable(ApiTest ApiTest.cpp)
 
 target_link_libraries(ApiTest JupiterApi)
 
